@@ -1,0 +1,41 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-image: linear-gradient(to right, rgba(51, 68, 228, 0.05),rgba(204, 51, 228, 0.05));
+}
+h2{
+	font-family: Times New Roman,sans-serif;
+	margin: auto;
+	width: 20%;
+	padding: 5px;
+	text-align: center;
+	color: black;
+}
+
+form{
+	border: 2px double black;
+	border-radius: 15px;
+}
+table{
+	width: 80%;
+	margin: 5% auto;
+	padding: 5%;
+}
+
+.btn{
+    border: 2px solid black;
+    width: 15%;
+	margin:5px;
+	padding:5px;
+}
+
+
+td{
+	padding: 15px;
+	margin: 15px;
+}
+
+
+.btn:hover{
+	background-color:lightgray;
+}
